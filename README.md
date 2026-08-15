@@ -3,7 +3,7 @@ Codename Carpathia is an unreleased Scratch OS developed by [@BambusOS](https://
 
 The build released is `dev-0.2.0a`, which bundles concept art (and associated code) to the project and redacts webhook links. There were no code changes to the OS in comparison to `dev-0.2.0`.
 
-## Features
+## Features
 Fully (or mostly) functional components are:
 - **Danube kernel** - Lightweight and secure kernel inspired by Micro Consen and Lightning Varsovia, with support for the Danube File System (DFS). The kernel is highly modular with functionality split across multiple sprites.
 - **Carpathia Init Service** - Componenent managing system services, inspired by Unix-style init programs. Services can be divided into 3 stages, somewhat similar to the concept of runlevels. Example services are available inside the project.
